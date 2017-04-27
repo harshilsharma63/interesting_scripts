@@ -46,7 +46,7 @@ def post_drawing_tasks():
 
 def main():
 	# Obtaining user inputs
-	# 	n - Degree of kock curve
+	# 	n - Degree of koch curve
 	# 	l - total width of curve
 	degree = int(input('Degree of curve: '))
 	canvas_width = int(input('Width of canvas: '))
